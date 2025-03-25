@@ -53,7 +53,7 @@
 
 
 // reference(non primitive)
-// Array, objects, function
+// Array = object, objects, function
 
 // javaScript objects are key-value pairs used to store data, created with {} 
 let myinfo = {
