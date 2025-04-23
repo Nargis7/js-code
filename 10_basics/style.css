@@ -1,0 +1,20 @@
+/* / let h2 = document.querySelector("h2"); */
+/* // console.dir(h2.innerText);
+// h2.innerText = h2.innerText + " from apna college!";
+// console.dir(h2.innerText);
+
+let divs = document.querySelectorAll(".box");
+// console.dir(div[0]);
+let idx = 0;
+for(div of divs){
+    // console.log(div);
+    // console.log(div.innerText);
+    div.innerText = `new line ${idx}`;
+    idx++;
+
+}
+
+// div[0].style.backgroundColor = " green";
+// div[0].style.color = "white";
+// div[0].innerText = "I am red box!";
+// div[0].style.border = "2px solid red"; */
